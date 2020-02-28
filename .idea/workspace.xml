@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2622c81-7ee0-444c-a561-56db2e011520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/theBeginingOfPython" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theBeginingOfPython/4.condition+repetition/condition.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4chapter" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theBeginingOfPython" beforeDir="false" afterPath="$PROJECT_DIR$/theBeginingOfPython" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theBeginingOfPython/documents/4.condition+repetition.md" beforeDir="false" afterPath="$PROJECT_DIR$/theBeginingOfPython/documents/4.condition+repetition.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
